@@ -8,7 +8,7 @@ Users can assign a mentor to a particular goal by inviting another user via emai
 
 You may run the app locally using the steps listed at the [this](https://github.com/alifmazli/objetivo/edit/main/README.md#running-objetivo) section below.
 
-## Requirements and Dependencies
+## Prerequisites
 
 1. All that Laravel 9 requires
 2. NodeJS

@@ -1,6 +1,6 @@
 # Objetivo
 
-![Objetivo Login Screen]("resources/img/objetivo-login-screen.png")
+![Objetivo Login Screen]("https://github.com/alifmazli/objetivo/blob/70fabb1d3516a2b8e9f95b9ab17b6a739fb58e5f/resources/img/objetivo-login-screen.png")
 
 ## Description
 

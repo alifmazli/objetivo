@@ -1,5 +1,7 @@
 # Objetivo
 
+![Objetivo Login Screen]("resources/img/objetivo-login-screen.png")
+
 ## Description
 
 Objetivo is a task management web app built using the Laravel framework, alongside HTML/CSS, Bootstrap and JavaScript. Users can execute full CRUD functionalities on "goals", "tasks", "action plans", and "users". 
